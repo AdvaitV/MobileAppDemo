@@ -17,6 +17,8 @@ public class Test_mad {
      */
     public static void main(String[] args) {
         System.out.println("hey Sam!!");
+        
+        System.out.println("Setup");
         // TODO code application logic here
     }
     
