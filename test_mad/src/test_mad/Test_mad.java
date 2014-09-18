@@ -17,6 +17,10 @@ public class Test_mad {
      */
     public static void main(String[] args) {
         System.out.println("hey Sam!!");
+        
+         System.out.format("King Kong wins %d\n");
+         System.out.format("GodZilla wins %d\n");     
+         System.out.format("Spiderman Wins %d\n ");
         // TODO code application logic here
     }
     
