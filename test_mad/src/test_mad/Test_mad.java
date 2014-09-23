@@ -23,6 +23,7 @@ public class Test_mad {
          System.out.format("Spiderman Wins %d\n ");
          
         System.out.println("hey Sam!!");
+        System.out.println("hey Sam!222!");
          
         // TODO code application logic here
     }
