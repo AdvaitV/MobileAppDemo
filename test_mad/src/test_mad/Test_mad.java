@@ -21,6 +21,7 @@ public class Test_mad {
          System.out.format("King Kong wins %d\n");
          System.out.format("GodZilla wins %d\n");     
          System.out.format("Spiderman Wins %d\n ");
+         System.out.format("Bushra typed this %d\n ");
          
 
         
