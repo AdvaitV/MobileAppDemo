@@ -22,8 +22,7 @@ public class Test_mad {
          System.out.format("GodZilla wins %d\n");     
          System.out.format("Spiderman Wins %d\n ");
          
-        System.out.println("hey Sam!!");
-        System.out.println("hey Sam!!This is UI branch push");
+        
          
         // TODO code application logic here
     }
