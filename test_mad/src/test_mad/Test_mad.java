@@ -27,9 +27,9 @@ public class Test_mad {
         
 
         System.out.println("hey Sam!!");
-        System.out.println("Hello");
 
-         
+        System.out.println("hey Sam!222!");
+
         // TODO code application logic here
     }
     
